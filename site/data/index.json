@@ -1,13 +1,31 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-15T00:00:00Z",
+  "generated_at": "2026-10-15T21:47:47Z",
   "count": 1,
   "cart_count": 0,
   "categories": [
-    "GAMEPLAY", "CONTENT", "BALANCE", "ART", "AUDIO", "UI", "QOL",
-    "TRANSLATION", "TOTAL_CONVERSION", "LIBRARY", "TOOL", "OTHER"
+    "GAMEPLAY",
+    "CONTENT",
+    "BALANCE",
+    "ART",
+    "AUDIO",
+    "UI",
+    "QOL",
+    "TRANSLATION",
+    "TOTAL_CONVERSION",
+    "LIBRARY",
+    "TOOL",
+    "OTHER"
   ],
-  "base_games": ["red", "blue", "yellow", "gold", "gen1", "gen2", "all"],
+  "base_games": [
+    "red",
+    "blue",
+    "yellow",
+    "gold",
+    "gen1",
+    "gen2",
+    "all"
+  ],
   "mods": [
     {
       "folder": "LordSangreal@firered-legenda-ptbr",
@@ -16,8 +34,17 @@
       "author": "LordSangreal",
       "summary": "Tradução para português do Brasil dos diálogos de Pokémon FireRed e LeafGreen: 6982 falas. Legenda de BRENO, revisão de LordSangreal e Solid One.",
       "version": "0.1.0",
-      "categories": ["TRANSLATION"],
-      "tags": ["traducao", "pt-br", "dialogos", "firered", "leafgreen", "gen3"],
+      "categories": [
+        "TRANSLATION"
+      ],
+      "tags": [
+        "traducao",
+        "pt-br",
+        "dialogos",
+        "firered",
+        "leafgreen",
+        "gen3"
+      ],
       "repo": "https://github.com/LordSangreal/gen3_frlg_pt-br_mod",
       "github": "LordSangreal/gen3_frlg_pt-br_mod",
       "automatic_version_check": true,
@@ -28,8 +55,20 @@
       "permissions": [],
       "thumbnail": null,
       "description_url": "data/mods/LordSangreal@firered-legenda-ptbr/description.md",
-      "latest": null,
-      "update_check": "pending",
+      "latest": {
+        "version": "0.1.0",
+        "tag": "v0.1.0",
+        "name": "v0.1.0 — FireRed Legenda PT-BR",
+        "prerelease": false,
+        "published": "2026-10-15",
+        "zip": {
+          "name": "firered-legenda-ptbr-0.1.0.zip",
+          "url": "https://github.com/LordSangreal/gen3_frlg_pt-br_mod/releases/download/v0.1.0/firered-legenda-ptbr-0.1.0.zip",
+          "size": 244356
+        },
+        "downloads": 0
+      },
+      "update_check": "ok",
       "downloads": null
     }
   ],
