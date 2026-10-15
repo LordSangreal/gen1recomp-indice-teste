@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-10-15T00:00:00Z",
+  "count": 1,
+  "cart_count": 0,
+  "categories": [
+    "GAMEPLAY", "CONTENT", "BALANCE", "ART", "AUDIO", "UI", "QOL",
+    "TRANSLATION", "TOTAL_CONVERSION", "LIBRARY", "TOOL", "OTHER"
+  ],
+  "base_games": ["red", "blue", "yellow", "gold", "gen1", "gen2", "all"],
+  "mods": [
+    {
+      "folder": "LordSangreal@firered-legenda-ptbr",
+      "id": "firered-legenda-ptbr",
+      "title": "FireRed Legenda — Português (Brasil)",
+      "author": "LordSangreal",
+      "summary": "Tradução para português do Brasil dos diálogos de Pokémon FireRed e LeafGreen: 6982 falas. Legenda de BRENO, revisão de LordSangreal e Solid One.",
+      "version": "0.1.0",
+      "categories": ["TRANSLATION"],
+      "tags": ["traducao", "pt-br", "dialogos", "firered", "leafgreen", "gen3"],
+      "repo": "https://github.com/LordSangreal/gen3_frlg_pt-br_mod",
+      "github": "LordSangreal/gen3_frlg_pt-br_mod",
+      "automatic_version_check": true,
+      "api": 2,
+      "game_version": ">=0.0.0-dev <1.0.0",
+      "profile": "content",
+      "experimental": false,
+      "permissions": [],
+      "thumbnail": null,
+      "description_url": "data/mods/LordSangreal@firered-legenda-ptbr/description.md",
+      "latest": null,
+      "update_check": "pending",
+      "downloads": null
+    }
+  ],
+  "carts": []
+}
