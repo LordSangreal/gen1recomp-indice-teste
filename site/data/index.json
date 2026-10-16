@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-15T21:47:47Z",
+  "generated_at": "2026-10-16T22:50:00Z",
   "count": 1,
   "cart_count": 0,
   "categories": [
@@ -12,12 +12,17 @@
     "UI",
     "QOL",
     "TRANSLATION",
+    "LANGUAGE",
     "TOTAL_CONVERSION",
     "LIBRARY",
     "TOOL",
     "OTHER"
   ],
   "base_games": [
+    "firered",
+    "leafgreen",
+    "frlg",
+    "gen3",
     "red",
     "blue",
     "yellow",
@@ -31,11 +36,12 @@
       "folder": "LordSangreal@firered-legenda-ptbr",
       "id": "firered-legenda-ptbr",
       "title": "FireRed Legenda — Português (Brasil)",
-      "author": "LordSangreal",
+      "author": "BRENO, LordSangreal, Solid One",
       "summary": "Tradução para português do Brasil dos diálogos de Pokémon FireRed e LeafGreen: 6982 falas. Legenda de BRENO, revisão de LordSangreal e Solid One.",
       "version": "0.1.0",
       "categories": [
-        "TRANSLATION"
+        "TRANSLATION",
+        "LANGUAGE"
       ],
       "tags": [
         "traducao",
@@ -44,6 +50,10 @@
         "firered",
         "leafgreen",
         "gen3"
+      ],
+      "games": [
+        "firered",
+        "leafgreen"
       ],
       "repo": "https://github.com/LordSangreal/gen3_frlg_pt-br_mod",
       "github": "LordSangreal/gen3_frlg_pt-br_mod",
@@ -60,7 +70,7 @@
         "tag": "v0.1.0",
         "name": "v0.1.0 — FireRed Legenda PT-BR",
         "prerelease": false,
-        "published": "2026-10-15",
+        "published_at": "2026-10-15T21:47:46Z",
         "zip": {
           "name": "firered-legenda-ptbr-0.1.0.zip",
           "url": "https://github.com/LordSangreal/gen3_frlg_pt-br_mod/releases/download/v0.1.0/firered-legenda-ptbr-0.1.0.zip",
