@@ -1,36 +1,18 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-16T22:55:00Z",
+  "generated_at": "2026-10-16T23:05:00Z",
   "name": "Índice Gen3 PT-BR FireRed - LeafGreen",
   "count": 1,
   "cart_count": 0,
   "categories": [
-    "GAMEPLAY",
-    "CONTENT",
-    "BALANCE",
-    "ART",
-    "AUDIO",
-    "UI",
-    "QOL",
     "TRANSLATION",
-    "LANGUAGE",
-    "TOTAL_CONVERSION",
-    "LIBRARY",
-    "TOOL",
-    "OTHER"
+    "LANGUAGE"
   ],
   "base_games": [
-    "firered",
-    "leafgreen",
-    "frlg",
     "gen3",
-    "red",
-    "blue",
-    "yellow",
-    "gold",
-    "gen1",
-    "gen2",
-    "all"
+    "frlg",
+    "firered",
+    "leafgreen"
   ],
   "mods": [
     {
@@ -38,7 +20,7 @@
       "id": "firered-legenda-ptbr",
       "title": "Gen3 PT-BR FireRed - LeafGreen",
       "author": "BRENO, LordSangreal, Solid One",
-      "summary": "Tradução para português do Brasil dos diálogos de Pokémon FireRed e LeafGreen: 6982 falas. Legenda de BRENO, revisão de LordSangreal e Solid One.",
+      "summary": "Tradução para português do Brasil dos diálogos de Pokémon FireRed e LeafGreen (Gen 3): 6982 falas. Legenda de BRENO, revisão de LordSangreal e Solid One.",
       "version": "0.1.0",
       "categories": [
         "TRANSLATION",
