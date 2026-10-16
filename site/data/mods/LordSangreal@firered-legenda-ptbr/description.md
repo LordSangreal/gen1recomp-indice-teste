@@ -1,4 +1,4 @@
-# FireRed Legenda — Português (Brasil)
+# Gen3 PT-BR FireRed - LeafGreen
 
 ## Créditos
 
