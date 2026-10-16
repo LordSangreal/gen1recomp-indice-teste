@@ -46,7 +46,7 @@
       "profile": "content",
       "experimental": false,
       "permissions": [],
-      "thumbnail": null,
+      "thumbnail": "data/mods/LordSangreal@firered-legenda-ptbr/thumbnail.png",
       "description_url": "data/mods/LordSangreal@firered-legenda-ptbr/description.md",
       "latest": {
         "version": "0.1.0",
