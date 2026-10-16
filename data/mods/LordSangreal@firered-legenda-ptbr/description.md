@@ -50,7 +50,7 @@ substituições.
 
 ## Instalação
 
-Pelo próprio gen1recomp: adicione o índice `LordSangreal/gen1recomp-mod-index`
+Pelo próprio gen1recomp: adicione o índice `LordSangreal/gen3-ptbr-firered-leafgreen-index`
 em Configurações → Mods → Índices, e instale por lá. Assim recebe atualizações
 automáticas.
 

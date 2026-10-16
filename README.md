@@ -7,10 +7,10 @@
 No gen1recomp: **Configurações → Mods → Índices → Adicionar**
 
 ```
-LordSangreal/gen1recomp-indice-teste
+LordSangreal/gen3-ptbr-firered-leafgreen-index
 ```
 
-O app busca `https://lordsangreal.github.io/gen1recomp-indice-teste/data/index.json`.
+O app busca `https://lordsangreal.github.io/gen3-ptbr-firered-leafgreen-index/data/index.json`.
 
 ## Mods incluídos
 
