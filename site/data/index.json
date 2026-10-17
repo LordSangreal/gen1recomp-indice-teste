@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-16T23:05:00Z",
+  "generated_at": "2026-10-17T00:25:00Z",
   "name": "Índice Gen3 PT-BR FireRed - LeafGreen",
   "count": 1,
   "cart_count": 0,
@@ -16,12 +16,12 @@
   ],
   "mods": [
     {
-      "folder": "LordSangreal@firered-legenda-ptbr",
-      "id": "firered-legenda-ptbr",
-      "title": "Gen3 PT-BR FireRed - LeafGreen",
+      "folder": "LordSangreal@gen3_frlg_pt-br_mod",
+      "id": "gen3_frlg_pt-br_mod",
+      "title": "[PT-BR] Versão Brasileira (FRLG)",
       "author": "BRENO, LordSangreal, Solid One",
-      "summary": "Tradução para português do Brasil dos diálogos de Pokémon FireRed e LeafGreen (Gen 3): 6982 falas. Legenda de BRENO, revisão de LordSangreal e Solid One.",
-      "version": "0.1.0",
+      "summary": "Tradução de FireRed e LeafGreen para PT-BR. Portada da tradução de GBA feita por Breno em 2026.",
+      "version": "0.1.1",
       "categories": [
         "TRANSLATION",
         "LANGUAGE"
@@ -46,18 +46,18 @@
       "profile": "content",
       "experimental": false,
       "permissions": [],
-      "thumbnail": "data/mods/LordSangreal@firered-legenda-ptbr/thumbnail.png",
-      "description_url": "data/mods/LordSangreal@firered-legenda-ptbr/description.md",
+      "thumbnail": "data/mods/LordSangreal@gen3_frlg_pt-br_mod/thumbnail.png",
+      "description_url": "data/mods/LordSangreal@gen3_frlg_pt-br_mod/description.md",
       "latest": {
-        "version": "0.1.0",
-        "tag": "v0.1.0",
-        "name": "v0.1.0 — Gen3 PT-BR FireRed - LeafGreen",
+        "version": "0.1.1",
+        "tag": "v0.1.1",
+        "name": "v0.1.1 - [PT-BR] Versão Brasileira (FRLG)",
         "prerelease": false,
-        "published_at": "2026-10-15T21:47:46Z",
+        "published_at": "2026-10-17T00:00:02Z",
         "zip": {
-          "name": "firered-legenda-ptbr-0.1.0.zip",
-          "url": "https://github.com/LordSangreal/gen3_frlg_pt-br_mod/releases/download/v0.1.0/firered-legenda-ptbr-0.1.0.zip",
-          "size": 244356
+          "name": "gen3_frlg_pt-br_mod-0.1.1.zip",
+          "url": "https://github.com/LordSangreal/gen3_frlg_pt-br_mod/releases/download/v0.1.1/gen3_frlg_pt-br_mod-0.1.1.zip",
+          "size": 417890
         },
         "downloads": 0
       },

@@ -14,7 +14,7 @@ O app busca `https://lordsangreal.github.io/gen3-ptbr-firered-leafgreen-index/da
 
 ## Mods incluídos (Exclusivo Gen 3)
 
-- **Gen3 PT-BR FireRed - LeafGreen** (`firered-legenda-ptbr`)
+- **[PT-BR] Versão Brasileira (FRLG)** (`gen3_frlg_pt-br_mod`)
   - **Jogos compatíveis:** Pokémon FireRed e Pokémon LeafGreen (Gen 3)
   - **Repositório do mod:** https://github.com/LordSangreal/gen3_frlg_pt-br_mod
   - **Conteúdo:** Tradução para português do Brasil dos 6982 diálogos das ROMs.
